@@ -1,0 +1,62 @@
+header > div {
+  background-color: black;
+  height: 85px;
+}
+header > div > div {
+  color: #fff;
+}
+
+#intro > div {
+  background-color: green;
+}
+#intro > div > div:last-child {
+  margin-left: 500px;
+}
+
+#about > div {
+  background-color: black;
+}
+#about > div > div {
+  color: #fff;
+}
+
+#advertising > div {
+  background-color: gray;
+}
+#advertising > div div {
+  margin-top: 20px;
+}
+#advertising > div div > p {
+  font-size: 15px;
+  color: #fff;
+}
+#advertising > div > div > h3 {
+  margin-left: 40px;
+}
+#advertising > div > div > div > i {
+  font-size: 120px;
+  flex-wrap: wrap;
+}
+
+footer {
+  background-color: black;
+}
+footer > div > div > h6 {
+  margin-top: 20px;
+  margin-left: 30px;
+  color: #fff;
+}
+footer > div > div > p {
+  margin-left: 30px;
+  color: green;
+}
+footer > div > div > h5 {
+  margin-top: 20px;
+  margin-left: 30px;
+  color: green;
+}
+footer > div > div > p {
+  margin-top: 20px;
+  margin-left: 30px;
+  color: green;
+}/*# sourceMappingURL=style.css.map */
